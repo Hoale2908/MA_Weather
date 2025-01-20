@@ -1,0 +1,12 @@
+What I learned:
+
+- Grouping data together to have fewer categories using dictionary. Helpful for visualization. Example: 
+    - grouping events into flood-related, wind-related, snow-related.
+    - grouping county and zone of the same name.
+    - grouping months to seasons.
+- Work with dates and times using pandas and dateime.
+- Work with string.
+- Ask meaningful analytic questions.
+- Investigate data for reclassification.
+- Visualziation: only show one or two key ideas.
+- Find data sources and compiling data for my research.
