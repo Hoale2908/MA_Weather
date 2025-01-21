@@ -2,7 +2,7 @@
 
 ![alt text](image-7.png)
 
-Massachusetts Weather Analysis (MWA) is one of my weekend projects. It provides insights for weather events in Massachusetts based on data from 2019 to 2024 which is available for download from http://noaa.gov.
+Massachusetts Weather Analysis (MWA) provides insights for weather events in Massachusetts based on data from 2019 to 2024 which is available for download from http://noaa.gov.
 
 ## Summary
 
